@@ -1,0 +1,21 @@
+{
+  "name": "aplica-o-em-nuvem",
+  "version": "1.0.0",
+  "description": "objetivo: codar em nuvem utilizando o Codespace, Docker, MongoDB e salvando no git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guilherme-Viana-XD/Aplica-o-em-Nuvem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Guilherme-Viana-XD/Aplica-o-em-Nuvem/issues"
+  },
+  "homepage": "https://github.com/Guilherme-Viana-XD/Aplica-o-em-Nuvem#readme"
+}
